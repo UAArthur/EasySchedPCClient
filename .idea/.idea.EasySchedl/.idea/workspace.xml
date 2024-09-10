@@ -7,7 +7,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df6cc876-1665-4009-8f7b-a5fe23c98562" name="Changes" comment="" />
+    <list default="true" id="df6cc876-1665-4009-8f7b-a5fe23c98562" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EasySchedl/AppConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasySchedl/Models/School.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasySchedl/Models/SchoolSearchResult.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasySchedl/SchoolSearchService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasySchedl/Windows/loginWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasySchedl/Windows/mainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EasySchedl/Windows/mainWindow.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EasySchedl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EasySchedl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/App.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/EasySchedl.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/EasySchedl.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/Windows/loginWindow.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/MainWindow.xaml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/bin/Debug/EasySchedl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/bin/Debug/EasySchedl.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/bin/Debug/EasySchedl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/bin/Debug/EasySchedl.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/bin/Debug/uk/EasySchedl.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/bin/Debug/uk/EasySchedl.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/obj/Debug/App.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/obj/Debug/App.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/obj/Debug/App.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/obj/Debug/App.g.i.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/obj/Debug/EasySchedl.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/obj/Debug/EasySchedl.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/obj/Debug/EasySchedl.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/obj/Debug/EasySchedl.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/obj/Debug/EasySchedl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/obj/Debug/EasySchedl.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/obj/Debug/EasySchedl.g.resources" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/obj/Debug/EasySchedl.g.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/obj/Debug/EasySchedl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/obj/Debug/EasySchedl.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/obj/Debug/EasySchedl_MarkupCompile.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/obj/Debug/EasySchedl_MarkupCompile.lref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/obj/Debug/MainWindow.baml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/obj/Debug/MainWindow.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasySchedl/obj/Debug/uk/EasySchedl.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EasySchedl/obj/Debug/uk/EasySchedl.resources.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,9 +44,25 @@
   <component name="DpaMonitoringSettings">
     <option name="autoShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;UAArthur&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/UAArthur/EasySchedPCClient.git&quot;,
+    &quot;accountId&quot;: &quot;34b1cf8c-de34-4166-92cd-2fd39a03ecc4&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2001126a9c264658951f9c39448ea9aa1b200/b8/b6f3834b/AutoCompleteBox.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -32,6 +76,7 @@
   &quot;keyToString&quot;: {
     &quot;.NET Project.EasySchedl.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -73,16 +118,35 @@
       <workItem from="1725792635652" duration="8439000" />
       <workItem from="1725816869037" duration="7020000" />
       <workItem from="1725828869062" duration="33000" />
-      <workItem from="1725828912224" duration="4871000" />
+      <workItem from="1725828912224" duration="5074000" />
+      <workItem from="1725882285725" duration="604000" />
+      <workItem from="1725902552142" duration="51000" />
+      <workItem from="1725902613130" duration="4544000" />
+      <workItem from="1725909912996" duration="47000" />
+      <workItem from="1725975074768" duration="1860000" />
+      <workItem from="1725989523514" duration="1047000" />
+      <workItem from="1725991824801" duration="1677000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1725833904878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725833904878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>

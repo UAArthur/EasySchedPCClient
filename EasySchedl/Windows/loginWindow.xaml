@@ -1,4 +1,4 @@
-﻿<Window x:Class="EasySchedl.MainWindow"
+﻿<Window x:Class="EasySchedl.loginWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -8,7 +8,12 @@
         xmlns:System="clr-namespace:System;assembly=mscorlib"
         mc:Ignorable="d"
         Title="EasySched" Height="600" Width="800"
-        ResizeMode="NoResize">
+        ResizeMode="NoResize"
+        UseLayoutRounding="True"
+        RenderOptions.BitmapScalingMode="NearestNeighbor"
+        SnapsToDevicePixels="True"
+        RenderOptions.ClearTypeHint="Enabled">
+    
     <!-- Your existing XAML content -->
     <Canvas>
         <TextBlock FontSize="36" FontFamily="{StaticResource InterExtraBold}" FontStyle="Normal" FontWeight="ExtraBold" Canvas.Left="94.5" Canvas.Top="30">
@@ -116,7 +121,7 @@
         </Canvas>
         
         <!-- Login with Creds -->
-        <Canvas Name="CLoginCreds" Visibility="Collapsed">
+        <Canvas Name="CLogin" Visibility="Collapsed">
             <Grid Canvas.Left="50" Canvas.Top="160" Width="311" Height="32">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="Auto"/>
@@ -124,11 +129,11 @@
                 </Grid.ColumnDefinitions>
         
                 <!-- Image (Logo) -->
-                <Image Source="assets/logos/placeholder.png" Width="50" Height="50" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <Image Source="/assets/logos/placeholder.png" Width="50" Height="50" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center"/>
         
                 <!-- Text (School Name) -->
                 <TextBlock Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="16" FontFamily="{StaticResource InterExtraBold}" FontWeight="ExtraBold" Foreground="Black" Margin="10,0,0,0">
-                    <Run Text="Staatliche Feintechnikschule"/>
+                    <Run Text="School name" Name="txtSchoolname"/>
                 </TextBlock>
             </Grid>
             <TextBox Name="TBUser"
@@ -142,7 +147,7 @@
                      FontStyle="Normal" FontWeight="Bold"
                      Foreground="#7A7A7A">
                 <TextBox.Background>
-                    <ImageBrush ImageSource="assets/icons/userIcon.png"
+                    <ImageBrush ImageSource="/assets/icons/userIcon.png"
                                 Stretch="Uniform"
                                 AlignmentX="Left">
                         <ImageBrush.Transform>
@@ -164,7 +169,7 @@
                          FontStyle="Normal" FontWeight="Bold"
                          Foreground="#7A7A7A">
                 <PasswordBox.Background>
-                    <ImageBrush ImageSource="assets/icons/passwordIcon.png"
+                    <ImageBrush ImageSource="/assets/icons/passwordIcon.png"
                                 Stretch="Uniform"
                                 AlignmentX="Left">
                         <ImageBrush.Transform>
@@ -176,7 +181,7 @@
                     </ImageBrush>
                 </PasswordBox.Background>
             </PasswordBox>
-            <Button Name="BtnPassword"
+            <Button Name="BtnLogin"
                     Width="311" Height="41"
                     Canvas.Left="50" Canvas.Top="302"
                     Background="#F26C6C" x:FieldModifier="public">

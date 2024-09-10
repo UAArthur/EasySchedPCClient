@@ -1,8 +1,6 @@
 C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\EasySchedl.csproj.AssemblyReference.cache
-C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\MainWindow.g.cs
 C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\App.g.cs
 C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\EasySchedl_MarkupCompile.cache
-C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\MainWindow.baml
 C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\EasySchedl.g.resources
 C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\EasySchedl.Properties.Resources.resources
 C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\EasySchedl.Properties.Resources.uk.resources
@@ -23,3 +21,7 @@ C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\bin\Debug\DotNetProjects.Inpu
 C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\EasySchedl.csproj.Up2Date
+C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\Windows\loginWindow.g.cs
+C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\Windows\loginWindow.baml
+C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\Windows\mainWindow.g.cs
+C:\Users\Arthur\source\repos\EasySchedl\EasySchedl\obj\Debug\Windows\mainWindow.baml
